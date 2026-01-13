@@ -69,23 +69,10 @@
 
 ### 🔧 Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,render,vercel,vscode" height="45"/>
+ <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,vercel,render,docker,netlify,linux,figma" height="45"/>
 </p>
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-maruf-kureshi-2828&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 🤝 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamed-maruf-kureshi-67357235b/?originalSubdomain=in">
