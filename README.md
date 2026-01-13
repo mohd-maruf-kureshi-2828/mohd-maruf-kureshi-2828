@@ -53,7 +53,7 @@
 ## 🛠️ Technologies & Skills
 
 ### 💻 Frontend
-<p align="left">
+<p align="left" style="border-radius:5px">
   <img src="https://i.ytimg.com/vi/fs6GBnJO_oE/maxresdefault.jpg" width="80"/>
   <img src="https://www.milesweb.com/blog/wp-content/uploads/2025/06/what-is-css.png" width="80"/>
   <img src="https://wpdean.com/what-is-bootstrap/" width="80"/>
@@ -62,14 +62,14 @@
 </p>
 
 ### ⚙️ Backend
-<p align="left">
+<p align="left" style="border-radius:5px">
   <img src="https://www.clipartmax.com/png/middle/292-2923778_python-logo-clipart-realistic-python-programming-a-comprehensive-beginners-guide.png" width="80"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZCytqzs6jDEueobUi5g8PAFOQS2-mAh_tzQ&s" width="80"/>
   <img src="https://imagedelivery.net/-inYktE1L-xCpqjE0wGFvg/b717b957-f0d2-42ee-b858-699691a54700/courseDetail" width="80"/>
 </p>
 
 ### 🗄️ Database
-<p align ="left">
+<p align ="left" style="border-radius:5px">
   <img src="https://www.techspot.com/images2/downloads/topdownload/2020/01/2020-01-28-ts3_thumbs-c3e.png" width="80"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRASBParCnQhsRkKZ8opkkRjtk9XJ-MHdy0jA&s" width="80"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmgwLV4mivccxHWzcM2BOkMbwwsibq_HCdDQ&s" width="80"/>
@@ -77,7 +77,7 @@
 
 
 ### 🔧 Tools & Platforms
-<p align="left">
+<p align="left" style="border-radius:5px">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-tvx2BFjpYmfiIBLV25XIfVZy4KhCYFLB7w&s" width="80"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuER1tOoBap4qZ8V7OUsbf-quqFfEjj3Jnzg&s" width="80"/>
   <img src="https://www.bvp.com/assets/uploads/2023/06/portfolio-render-updated.png" width="80"/>
@@ -88,12 +88,12 @@
 ---
 
 ## 🤝 Connect With Me
-<p>
+<p style="background-color:white">
   <a href="https://www.linkedin.com/in/mohamed-maruf-kureshi-67357235b/?originalSubdomain=in">
   <img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="80">
   </a>
   <a href="https://www.instagram.com/mohamed_maruf_kureshi/?igsh=dmJnbmFiM2tlemMx#">
-  <img src="https://cdn.pixabay.com/photo/2016/12/04/18/58/instagram-1882330_1280.png" width="80">
+  <img style="border-radius:5px" src="https://cdn.pixabay.com/photo/2016/12/04/18/58/instagram-1882330_1280.png" width="80">
   </a>
 </p>
 
