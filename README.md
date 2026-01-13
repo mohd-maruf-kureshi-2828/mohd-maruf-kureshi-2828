@@ -53,19 +53,19 @@
 ## 🛠️ Technologies & Skills
 
 ### 💻 Frontend
-<p>
-  <img src="https://i.ytimg.com/vi/fs6GBnJO_oE/maxresdefault.jpg"/>
-  <img src="https://www.milesweb.com/blog/wp-content/uploads/2025/06/what-is-css.png"/>
-  <img src="https://wpdean.com/what-is-bootstrap/"/>
-  <img src="https://cloudmatetechnologies.com/wp-content/uploads/2024/06/react.js.png"/>
-  <img src="https://read.learnyard.com/content/images/2024/07/logo.png"/>
+<p align="left">
+  <img src="https://i.ytimg.com/vi/fs6GBnJO_oE/maxresdefault.jpg" width="80"/>
+  <img src="https://www.milesweb.com/blog/wp-content/uploads/2025/06/what-is-css.png" width="80"/>
+  <img src="https://wpdean.com/what-is-bootstrap/" width="80"/>
+  <img src="https://cloudmatetechnologies.com/wp-content/uploads/2024/06/react.js.png" width="80"/>
+  <img src="https://read.learnyard.com/content/images/2024/07/logo.png" width="80"/>
 </p>
 
 ### ⚙️ Backend
-<p>
-  <img src="https://www.clipartmax.com/png/middle/292-2923778_python-logo-clipart-realistic-python-programming-a-comprehensive-beginners-guide.png"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZCytqzs6jDEueobUi5g8PAFOQS2-mAh_tzQ&s"/>
-  <img src="https://imagedelivery.net/-inYktE1L-xCpqjE0wGFvg/b717b957-f0d2-42ee-b858-699691a54700/courseDetail"/>
+<p align="left">
+  <img src="https://www.clipartmax.com/png/middle/292-2923778_python-logo-clipart-realistic-python-programming-a-comprehensive-beginners-guide.png" width="80"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZCytqzs6jDEueobUi5g8PAFOQS2-mAh_tzQ&s" width="80"/>
+  <img src="https://imagedelivery.net/-inYktE1L-xCpqjE0wGFvg/b717b957-f0d2-42ee-b858-699691a54700/courseDetail" width="80"/>
 </p>
 
 ### 🗄️ Database
@@ -91,6 +91,9 @@
 <p>
   <a href="https://www.linkedin.com/in/mohamed-maruf-kureshi-67357235b/?originalSubdomain=in">
   <img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="80">
+  </a>
+  <a href="https://www.instagram.com/mohamed_maruf_kureshi/?igsh=dmJnbmFiM2tlemMx#">
+  <img src="https://cdn.pixabay.com/photo/2016/12/04/18/58/instagram-1882330_1280.png" width="80">
   </a>
 </p>
 
