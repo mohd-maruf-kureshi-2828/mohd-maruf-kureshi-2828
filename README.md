@@ -69,26 +69,30 @@
 </p>
 
 ### 🗄️ Database
-<p>
-  <img src="https://www.techspot.com/images2/downloads/topdownload/2020/01/2020-01-28-ts3_thumbs-c3e.png"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRASBParCnQhsRkKZ8opkkRjtk9XJ-MHdy0jA&s"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmgwLV4mivccxHWzcM2BOkMbwwsibq_HCdDQ&s"/>
+<p align ="left">
+  <img src="https://www.techspot.com/images2/downloads/topdownload/2020/01/2020-01-28-ts3_thumbs-c3e.png" width="80"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRASBParCnQhsRkKZ8opkkRjtk9XJ-MHdy0jA&s" width="80"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmgwLV4mivccxHWzcM2BOkMbwwsibq_HCdDQ&s" width="80"/>
 </p>
 
 
 ### 🔧 Tools & Platforms
-<p>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-tvx2BFjpYmfiIBLV25XIfVZy4KhCYFLB7w&s"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuER1tOoBap4qZ8V7OUsbf-quqFfEjj3Jnzg&s"/>
-  <img src="https://www.bvp.com/assets/uploads/2023/06/portfolio-render-updated.png"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqwNwDUq_S0U6wDzS60c45kVK5zpxF-03wsQ&s"/>
+<p align="left">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-tvx2BFjpYmfiIBLV25XIfVZy4KhCYFLB7w&s" width="80"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuER1tOoBap4qZ8V7OUsbf-quqFfEjj3Jnzg&s" width="80"/>
+  <img src="https://www.bvp.com/assets/uploads/2023/06/portfolio-render-updated.png" width="80"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqwNwDUq_S0U6wDzS60c45kVK5zpxF-03wsQ&s" width="80"/>
 </p>
 
 
 ---
 
 ## 🤝 Connect With Me
-[![LinkedIn](https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png)](https://www.linkedin.com/in/mohamed-maruf-kureshi-67357235b/?originalSubdomain=in)
+<p>
+  <a href="https://www.linkedin.com/in/mohamed-maruf-kureshi-67357235b/?originalSubdomain=in">
+  <img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="80">
+  </a>
+</p>
 
 ---
 
