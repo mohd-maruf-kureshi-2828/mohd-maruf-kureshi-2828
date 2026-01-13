@@ -2,105 +2,105 @@
 <h3 align="center">Full Stack Python Developer | MERN Learner | BCA Graduate</h3>
 
 <p align="center">
-  🚀 I love building real-world projects • 💡 Learning by doing • 😄 Coding = Fun
+  🚀 Building Real-World Projects • 💡 Learning by Doing • 😄 Coding is Fun
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&width=500&lines=Full+Stack+Python+Developer;Django+%7C+REST+API+%7C+React;Problem+Solver+%7C+Fast+Learner;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 BCA Graduate
-- 🐍 Full Stack **Python Developer**
-- ⚛️ Learning **MERN Stack (React, Node)**
+- 🎓 **BCA Graduate**
+- 🐍 **Full Stack Python Developer**
+- ⚛️ Learning **MERN Stack (React, Node.js)**
 - 🔥 Built multiple **real-world full stack projects**
-- 🎯 Strong interest in **learning & teaching technology**
-- 😄 I enjoy coding because it’s **fun, creative & powerful**
-- 📫 Email: mohamedmarufkureshikureshi@gmail.com
+- 🎯 Strong interest in **software development & technology**
+- 😄 I enjoy coding because it’s **creative, logical & powerful**
+- 📫 **Email:** mohamedmarufkureshikureshi@gmail.com
 
 ---
 
 ## 🚀 Featured Projects
+
 ### 🔹 Full Stack Car Selling Platform
-- Admin Panel & User Dashboard
-- Authentication & CRUD
-- Hosted on **Render**
-- Backend: Django / Python
-- Database: MySQL
+- Admin Panel & User Dashboard  
+- Authentication & Role Management  
+- Complete CRUD Operations  
+- Hosted on **Render**  
+- **Tech:** Django, Python, MySQL  
 
 ### 🔹 Student Management System
-- Django REST Framework API
-- React + Vite Frontend
-- Full CRUD Operations
-- Clean API Architecture
+- Django REST Framework API  
+- React + Vite Frontend  
+- Student & Course Management  
+- Full CRUD with clean architecture  
 
 ### 🔹 Portfolio Website
-- Animated UI
-- Responsive Design
-- Hosted Online
+- Animated UI  
+- Responsive Design  
+- Showcasing projects & skills  
 
-### 🔹 Calculator App
-- Modern UI
-- JavaScript Logic
+### 🔹 Mini Projects
+- Calculator App (JavaScript logic)  
+- Typing Speed Test (Speed & accuracy)  
 
-### 🔹 Typing Speed Test
-- Real-time typing accuracy
-- Speed calculation
-- Fun & interactive
-
-> 💡 I focus on **practical projects**, not just tutorials.
+> 💡 *I believe strong projects matter more than certificates.*
 
 ---
 
 ## 🛠️ Technologies & Skills
 
 ### 💻 Frontend
-<p align="left" border-radius="5px">
-  <img src="https://i.ytimg.com/vi/fs6GBnJO_oE/maxresdefault.jpg" width="80"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJOEvg8jjrFmYxFG4SuVmSm-JwPtuIdLk_kw&s" width="80"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRBpNNhs5qfjK7MfB4Qv7VSpkiZFGAIHYuSA&s" width="80"/>
-  <img src="https://cloudmatetechnologies.com/wp-content/uploads/2024/06/react.js.png" width="80"/>
-  <img src="https://read.learnyard.com/content/images/2024/07/logo.png" width="80"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" height="45"/>
 </p>
 
 ### ⚙️ Backend
-<p align="left" border-radius="5px">
-  <img src="https://www.clipartmax.com/png/middle/292-2923778_python-logo-clipart-realistic-python-programming-a-comprehensive-beginners-guide.png" width="80"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZCytqzs6jDEueobUi5g8PAFOQS2-mAh_tzQ&s" width="80"/>
-  <img src="https://imagedelivery.net/-inYktE1L-xCpqjE0wGFvg/b717b957-f0d2-42ee-b858-699691a54700/courseDetail" width="80"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs" height="45"/>
 </p>
 
-### 🗄️ Database
-<p align ="left" border-radiuss="5px">
-  <img src="https://www.techspot.com/images2/downloads/topdownload/2020/01/2020-01-28-ts3_thumbs-c3e.png" width="80"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRASBParCnQhsRkKZ8opkkRjtk9XJ-MHdy0jA&s" width="80"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmgwLV4mivccxHWzcM2BOkMbwwsibq_HCdDQ&s" width="80"/>
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql" height="45"/>
 </p>
-
 
 ### 🔧 Tools & Platforms
-<p align="left" border-radius="5px">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-tvx2BFjpYmfiIBLV25XIfVZy4KhCYFLB7w&s" width="80"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuER1tOoBap4qZ8V7OUsbf-quqFfEjj3Jnzg&s" width="80"/>
-  <img src="https://www.bvp.com/assets/uploads/2023/06/portfolio-render-updated.png" width="80"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqwNwDUq_S0U6wDzS60c45kVK5zpxF-03wsQ&s" width="80"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,render,vercel,vscode" height="45"/>
 </p>
 
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-maruf-kureshi-2828&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
 ## 🤝 Connect With Me
-<p>
+<p align="left">
   <a href="https://www.linkedin.com/in/mohamed-maruf-kureshi-67357235b/?originalSubdomain=in">
-  <img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="80">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
-  <a href="https://www.instagram.com/mohamed_maruf_kureshi/?igsh=dmJnbmFiM2tlemMx#">
-  <img border-radius="5px" src="https://cdn.pixabay.com/photo/2016/12/04/18/58/instagram-1882330_1280.png" width="80">
+  <a href="https://www.instagram.com/mohamed_maruf_kureshi/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  💬 <b>"I believe projects teach more than certificates."</b><br/>
-  ⭐ Always learning | Always building
+  💬 <b>"Projects teach more than certificates."</b><br/>
+  ⭐ Always learning • Always building • Always improving
 </p>
+
 
