@@ -69,7 +69,7 @@
 
 ### 🔧 Tools & Platforms
 <p align="left">
- <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,vercel,render,docker,netlify,linux,figma" height="45"/>
+ <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,linux,figma" height="45"/>
 </p>
 
 ---
