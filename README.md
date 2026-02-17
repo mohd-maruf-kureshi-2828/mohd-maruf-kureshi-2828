@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamad Maruf Kureshi</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Maruf Kureshi</h1>
 <h3 align="center">Full Stack Python Developer | MERN Learner | BCA Graduate</h3>
 
 <p align="center">
